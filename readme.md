@@ -15,7 +15,7 @@ Developed using Neovim with JDTLS.
 
 #Prerequisites
 
--Java Development Kit (JDK) 17 or later installed.
+-Java Development Kit (JDK) 21 or later installed.
 -A terminal to run the program.
 
 #Project Structure
