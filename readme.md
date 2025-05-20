@@ -25,5 +25,7 @@ Resource/:images of output
 README.md: Project documentation.
 
 Output:
+
+
 ![output](Resource/calculator-output.png)
 
