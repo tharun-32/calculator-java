@@ -8,14 +8,14 @@ Developed using Neovim with JDTLS.
 
 #Features
 
--Accepts two numbers and an operator (+, -, *, /) via user input.
+-Accepts two numbers and an operator (+, -, *, /,%) via user input.
 -Performs arithmetic calculations and displays the result.
 -Handles errors like division by zero using try-catch.
 -Clean, modular code with methods for operations.
 
 #Prerequisites
 
--Java Development Kit (JDK) 21 or later installed.
+-Java Development Kit (JDK) 21.
 -A terminal to run the program.
 
 #Project Structure
