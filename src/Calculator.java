@@ -5,7 +5,7 @@ import java.util.Scanner;
  * calculator
  * author tharun
  */
-public class calculator {
+public class Calculator {
     public static void main(String[] args) {
         System.out.println("calculator program build on java");
         // getting input from the user
